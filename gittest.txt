@@ -1,2 +1,4 @@
 git test
 aaaaa
+git add
+git commit
